@@ -53,7 +53,7 @@ A simple and responsive weather application built using HTML, CSS, and JavaScrip
 1. Clone the repository
 
 ```bash
-git clone https://github.com/MLwithvaibhav/Weather-App.git
+git clone https://github.com/systemswithvaibhav/Weather-App.git
 ```
 
 2. Open `index.html`
